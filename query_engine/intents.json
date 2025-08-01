@@ -1,0 +1,22 @@
+{
+"banking": {
+    "check balance" : "Your current account balance is {{balance}}.",
+    "last transaction" : "Your last transaction was of {{amount}} with transaction id {{txn_id}}."
+},
+"loan": {
+    "loan status" : "Your loan is {{loan status}}.",
+    "premium status" : "Your loan premium is {{premium status}}.",
+    "premium amount" : "Your loan premium amount is {{premium amount}}."
+},
+"investment": {
+    "portfolio status" : "Your current portfolio status is {{porfolio status}}.",
+    "assets in portfolio": "Currentl your porfolio has these assets {{assets}}."
+},
+"insurance": {
+    "premium status" : "Your loan premium is {{premium status}}.",
+    "premium amount" : "Your loan premium amount is {{premium amount}}."
+},
+"tax": {
+
+}
+}

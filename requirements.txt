@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+dotenv
+groq
+edge_tts
+fastapi
+uvicorn

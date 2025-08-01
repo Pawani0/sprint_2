@@ -1,0 +1,683 @@
+### 1. About FinCove Pvt. Ltd. #AboutUs #FinCove
+
+FinCove Pvt. Ltd. is a cutting-edge digital banking and financial services company. It focuses on delivering secure, inclusive, and innovative financial solutions via smart technology.
+
+**Mission:** Empower individuals and businesses through seamless, secure digital banking experiences.
+
+**Goals:**
+
+* Lead in digital banking and financial advisory services
+* Promote financial literacy and inclusion
+* Provide secure, data-driven financial products
+
+**Target Users:**
+
+* Urban and rural individuals seeking secure, tech-enabled banking
+* MSMEs needing banking and advisory solutions
+
+\---chunk---
+
+### 2. Account Products #Accounts #Savings #Deposits
+
+**Savings Account (Detailed) #SavingsAccount #PersonalBanking**
+A Savings Account at FinCove Pvt. Ltd. is designed to offer customers a secure and convenient way to save money while earning interest on their deposits. It is ideal for individuals who want to build a financial cushion, manage daily expenses, and access digital banking services.
+
+Key Features:
+| Feature                 | Description                                             |
+| ----------------------- | ------------------------------------------------------- |
+| **Interest Rate**       | 3.5% per annum, credited quarterly                      |
+| **Minimum Balance**     | ₹2,000 (monthly average balance)                        |
+| **Account Access**      | Mobile app, internet banking, SMS, and IVR services     |
+| **Card Facility**       | Free virtual & physical debit card with ATM access      |
+| **Account Statements**  | Monthly e-statements via email                          |
+| **Cheque Book**         | Available on request                                    |
+| **Nomination Facility** | Yes – assign a nominee at account opening or anytime    |
+| **SMS Alerts**          | Real-time alerts for transactions, login attempts, etc. |
+
+*Documents Required to Open a Savings Account:
+ PAN Card
+ Aadhaar Card
+ Address Proof (utility bill/ration card/passport)
+ One passport-size photograph
+ Mobile number linked with Aadhaar
+ Initial deposit of ₹2,000
+
+*How to Open a Savings Account (Steps):
+ Visit FinCove Website or Mobile App
+ Select “Open a Savings Account”
+ Complete eKYC using Aadhaar and OTP
+ Upload required documents (PAN, photo)
+ Set up internet/mobile banking credentials
+ Make initial deposit online or through UPI
+ Receive confirmation and virtual debit card instantly
+ Note: For full activation, physical KYC (in-branch or video verification) may be required    depending on RBI rules.
+
+*Benefits of FinCove Savings Account:
+ No hidden charges
+ 24/7 banking access
+ Safe and encrypted platform
+ Auto-sweep facility to convert surplus savings into FD
+ Easy linking with UPI, wallets, and billers
+ Optional add-ons: Insurance cover, cashback debit cards
+
+*Penalties & Charges:
+| Condition                       | Penalty/Fee       |
+| ------------------------------- | ----------------- |
+| Minimum balance not maintained  | ₹200/month        |
+| Duplicate statement request     | ₹50 per request   |
+| Physical debit card replacement | ₹250 + GST        |
+| Cheque bounce                   | ₹350 per instance |
+
+*FAQs – Savings Account:
+Q: Can I open a zero-balance savings account?
+A: Yes, under FinCove’s Basic Savings Bank Deposit Account (BSBDA) plan, subject to eligibility.
+
+Q: Is interest compounded monthly?
+A: No, interest is calculated daily and credited quarterly.
+
+Q: Can I have more than one savings account?
+A: Yes, but total balances across accounts are tracked for regulatory compliance.
+
+Q: How do I convert a savings account into a joint account?
+A: Visit the nearest branch with ID proofs of both account holders and fill the joint account request form.
+
+
+**Current Account #CurrentAccount #BusinessBanking**
+A Current Account at FinCove Pvt. Ltd. is specially designed to meet the dynamic financial needs of business owners, professionals, traders, startups, and corporates. It allows unlimited day-to-day transactions without any interest earnings, ensuring smooth business operations with maximum flexibility.
+
+*Key Features:
+| Feature                     | Description                                    |
+| --------------------------- | ---------------------------------------------- |
+| **Interest Rate**           | No interest (non-interest bearing account)   |
+| **Monthly Average Balance** | ₹10,000 (varies by account type)               |
+| **Transaction Limit**       | Unlimited credits and debits                   |
+| **Overdraft Facility**      | Available (subject to eligibility & approval)  |
+| **Cash Handling Limit**     | ₹5L/day free; charges apply beyond limit       |
+| **Digital Banking Access**  | Yes – Internet, Mobile App, SMS & IVR          |
+| **Multi-user Access**       | Role-based access for accountants/staff        |
+| **Cheque Book Facility**    | Yes – 50/100 leaves per issuance               |
+| **Debit Card**              | Business Debit Card with higher ATM/POS limits |
+
+*Documents Required to Open a Current Account:
+-For Individuals/Firms:
+ PAN Card of proprietor/partners
+ Aadhaar or Passport as ID proof
+ Address proof of business (electricity bill, rental deed, etc.)
+ GST Certificate (if applicable)
+ Business Registration Certificate / Shop Act License
+
+-For Companies:
+ PAN of company
+ Certificate of Incorporation
+ Memorandum & Articles of Association (MOA & AOA)
+ Board Resolution
+ KYC of all directors
+
+*How to Open a Current Account:
+ Choose account plan (Basic/Startup/Business Plus)
+ Submit business & personal KYC documents
+ Complete in-branch or video verification
+ Deposit minimum balance (₹10,000 or per plan)
+ Receive checkbook, debit card & welcome kit
+ Set up mobile/internet banking
+ Note: GST-linked businesses can enable auto-GST challan payments via account dashboard.
+
+*Benefits of FinCove Current Account:
+ Unlimited business transactions (no per-transaction fees)
+ Bulk payment options (salary, vendor payouts)
+ Priority customer support
+ Multi-user login for business staff
+ UPI/IMPS/NEFT/RTGS enabled
+ Free inward RTGS/NEFT payments
+ Cash deposit machines in major cities
+ Integration with Tally, Zoho, QuickBooks
+
+*Charges & Penalties:
+| Item                             | Charges/Fee                        |
+| -------------------------------- | ---------------------------------- |
+| Non-maintenance of balance       | ₹500/month                         |
+| NEFT/RTGS outward (beyond limit) | ₹2.5 to ₹50                        |
+| Cheque book (additional)         | ₹2 per leaf                        |
+| Overdraft interest               | 10%–14% p.a. (only on used amount) |
+
+*FAQs – Current Account:
+Q: Can individuals open a current account?
+A: Yes, if they have a registered business, trade, or professional income.
+
+Q: Can I link my current account with payment gateways?
+A: Yes, FinCove supports integration with Razorpay, PayU, and more.
+
+Q: Is GST registration mandatory?
+A: Not mandatory unless business turnover exceeds legal threshold.
+
+Q: What is the overdraft eligibility?
+A: Based on business cash flow, CIBIL score, and FinCove relationship.
+
+Q: Can I convert my savings account into a current account?
+A: No. You must open a new current account and transfer funds.
+
+
+
+**Fixed Deposit (FD) #FixedDeposit #TermDeposit #FD:**
+A Fixed Deposit (FD) at FinCove Pvt. Ltd. is a secure, low-risk investment option that allows customers to deposit a lump sum of money for a fixed period and earn guaranteed interest over that tenure. It is ideal for individuals looking for stable returns and capital protection.
+
+*Key Features:
+| Feature                     | Description                                               |
+| --------------------------- | --------------------------------------------------------- |
+| **Interest Rate**           | 6.0% – 7.5% p.a. (depends on tenure & amount)             |
+| **Tenure Range**            | 7 days to 10 years                                        |
+| **Minimum Deposit**         | ₹5,000                                                    |
+| **Maximum Deposit**         | No upper limit                                            |
+| **Senior Citizen Benefit**  | Additional 0.50% interest for individuals aged 60+        |
+| **Interest Payout Options** | Monthly, Quarterly, Half-Yearly, Annually, or on Maturity |
+| **Premature Withdrawal**    | Allowed with penalty (usually 0.5%–1% lower interest)     |
+| **Loan Against FD**         | Up to 90% of FD value as overdraft/loan                   |
+| **Auto-renewal Option**     | Available at time of opening                              |
+| **Nomination Facility**     | Yes                                                       |
+
+*Required Documents to Book an FD:
+ PAN Card
+ Aadhaar Card or Valid Address Proof
+ Existing savings/current account with FinCove
+ Mobile number linked to bank account
+
+*How to Book a Fixed Deposit:
+ -Via Mobile App or Net Banking:
+  Log in to your FinCove account
+  Navigate to “Investments” → “Fixed Deposit”
+  Enter deposit amount and select tenure
+  Choose interest payout frequency (e.g., monthly)
+  Confirm details and authenticate with OTP
+  Receive confirmation and FD receipt instantly
+ -In-branch Option:
+  Visit the nearest FinCove branch with your KYC documents and fill out the FD application form.
+
+*Benefits of a FinCove FD:
+ Assured returns, unaffected by market fluctuations
+ Flexible tenures to meet short-term or long-term goals
+ Tax-saving options under 5-year Tax Saver FD (80C benefit)
+ Can be used as collateral for loans
+ Joint holding facility available
+ Auto-renewal to maintain compounding
+
+*Taxation on FD Interest:
+ Interest earned is taxable as per income tax slab
+ TDS (Tax Deducted at Source):
+ 10% if PAN is provided
+ 20% if PAN is not provided
+ Submit Form 15G/15H to avoid TDS if total income is below exemption limit
+
+*Penalties & Charges:
+| Scenario                  | Penalty/Charge                     |
+| ------------------------- | ---------------------------------- |
+| Premature withdrawal      | 0.5%–1% lower interest than agreed |
+| Duplicate FD certificate  | ₹100 per request                   |
+| FD breakage within 7 days | No interest paid                   |
+
+*FAQs – Fixed Deposit:
+Q: Can I have multiple FDs?
+A: Yes, you can open multiple FDs with different tenures and amounts.
+
+Q: Is there a penalty-free premature withdrawal?
+A: No. All early withdrawals attract a reduced interest rate unless under special circumstances like death of the depositor.
+
+Q: Can I open an FD in the name of a minor?
+A: Yes, jointly with a guardian.
+
+Q: How is interest credited?
+A: Based on your selected payout frequency or at maturity.
+
+Q: What happens at FD maturity?
+A: Amount is auto-credited to your linked account or auto-renewed as per instruction.
+
+
+
+**Recurring Deposit (RD) #RecurringDeposit #RD #SavingsPlan:**
+A Recurring Deposit (RD) at FinCove Pvt. Ltd. is a disciplined savings plan where customers deposit a fixed amount every month for a selected tenure and earn interest similar to Fixed Deposits. It is ideal for salaried individuals, students, or anyone with regular income who wants to accumulate savings systematically with steady returns.
+
+*Key Features:
+| Feature                 | Description                                       |
+| ----------------------- | ------------------------------------------------- |
+| **Monthly Installment** | Fixed amount (minimum ₹500 per month)             |
+| **Interest Rate**       | 6.5% – 7.2% p.a. (based on tenure)                |
+| **Tenure Range**        | 6 months to 10 years                              |
+| **Minimum Tenure**      | 6 months                                          |
+| **Maximum Tenure**      | 120 months (10 years)                             |
+| **Deposit Mode**        | Auto-debit from FinCove savings account           |
+| **Interest Payout**     | On maturity (compound interest applied quarterly) |
+| **Premature Closure**   | Allowed with penalty (0.5%–1% less interest)      |
+| **Loan Against RD**     | Available up to 90% of RD value                   |
+| **Nomination Facility** | Yes                                               |
+
+*How to Open an RD:
+-Via FinCove App / Internet Banking:
+ Log in to your account
+ Go to “Investments” → “Recurring Deposit”
+ Enter monthly contribution and tenure
+ Set auto-debit date and confirm details
+ Authenticate via OTP and receive RD receipt
+-In-Branch Option:
+ Visit any FinCove branch with your KYC documents and submit an RD account opening form
+
+*Benefits of FinCove RD:
+ Builds a saving habit through consistent deposits
+ Better interest than regular savings account
+ Suitable for medium-to-long term goals (education, travel, etc.)
+ Auto-debit ensures no missed payments
+ Secure and predictable — no market dependency
+
+*Taxation on RD Interest:
+ Interest earned is taxable under “Income from Other Sources”
+ TDS is applicable if interest exceeds ₹40,000 (₹50,000 for senior citizens) per year
+ PAN is required to avoid higher TDS (20%)
+ Form 15G/15H can be submitted to avoid TDS if eligible
+
+*Charges & Penalties:
+| Condition                  | Penalty/Impact                              |
+| -------------------------- | ------------------------------------------- |
+| Missed monthly installment | ₹10–₹100 per month (varies by RD size)      |
+| Premature withdrawal       | Interest 0.5%–1% lower than contracted rate |
+| RD closed before 3 months  | No interest paid                            |
+
+*FAQs – Recurring Deposit:
+Q: Can I change the monthly installment after opening the RD?
+A: No. You must close the existing RD and start a new one with the new amount.
+
+Q: Is there a penalty for missed payments?
+A: Yes, a nominal charge per missed installment.
+
+Q: Can minors open an RD?
+A: Yes, under the supervision of a parent/guardian.
+
+Q: What happens at maturity?
+A: The maturity amount (principal + interest) is auto-credited to your linked savings account.
+
+
+**NRE / NRO / FCNR Accounts (for NRIs) #NRIAccounts #NRE #NRO #FCNR:**
+FinCove Pvt. Ltd. offers dedicated banking solutions for Non-Resident Indians (NRIs) through three specialized accounts: NRE, NRO, and FCNR. These accounts are designed to help NRIs manage their foreign and domestic income, facilitate repatriation, and ensure regulatory compliance with RBI norms.
+
+* Account Type Overview:
+| Feature            | **NRE Account**                          | **NRO Account**                                      | **FCNR Account**                  |
+| ------------------ | ---------------------------------------- | ---------------------------------------------------- | --------------------------------- |
+| **Purpose**        | Park foreign income in India             | Manage income earned in India (rent, etc.)           | Fixed deposit in foreign currency |
+| **Currency**       | INR                                      | INR                                                  | USD, GBP, EUR, JPY, etc.          |
+| **Repatriation**   | Fully repatriable (principal + interest) | Principal: Non-repatriable; Interest: limited        | Fully repatriable                 |
+| **Taxability**     | Interest tax-free in India               | Interest taxable in India                            | Interest tax-free in India        |
+| **Tenure**         | Savings/FD: Flexible                     | Savings/FD: Flexible                                 | 1–5 years (FD only)               |
+| **Joint Holding**  | Allowed with another NRI                 | Allowed with NRI or Resident Indian (close relative) | Only with NRI                     |
+| **Deposit Source** | Funds from overseas (inward remittance)  | Indian sources (rent, dividends, etc.)               | Foreign currency from overseas    |
+| **Account Type**   | Savings, Current, FD, RD                 | Savings, Current, FD, RD                             | Fixed Deposit only                |
+
+*How to Open NRI Accounts (NRE/NRO/FCNR):
+ Visit FinCove’s NRI Banking section online or branch (if in India)
+ Submit the Account Opening Form (NRI version)
+ Upload/submit required documents:
+ Valid Passport
+  Valid Visa/Work Permit
+  Overseas Address Proof
+  Recent passport-sized photograph
+  PAN Card or Form 60
+ Choose account type and funding method (e.g., SWIFT transfer)
+ Complete in-person or video KYC
+
+*Key Benefits:
+ Manage Indian and international earnings separately
+ Attractive interest rates, especially on FCNR FDs
+ Protection from forex risk (FCNR)
+ Debit card, cheque book, internet & mobile banking
+ 24/7 NRI helpdesk and email support
+ Remit funds back to overseas accounts easily
+ Free inward remittances via SWIFT/NEFT/IMPS
+
+*Tax Treatment:
+| Account | Tax on Interest | TDS Applicable? | Tax Exempt Section |
+| ------- | --------------- | --------------- | ------------------ |
+| NRE     |   No            |   No            | Sec 10(4)          |
+| NRO     |   Yes (30% TDS) |   Yes           | N/A                |
+| FCNR    |   No            |   No            | Sec 10(15)(iv)(fa) |
+Note: Interest from NRO accounts is subject to mandatory 30% TDS unless the user submits lower deduction certificate (LDC) or claims tax relief under DTAA (Double Taxation Avoidance Agreement).
+
+* FAQs – NRE/NRO/FCNR:
+Q: Can I transfer money between NRE and NRO accounts?
+A: Yes, but transferring from NRO to NRE is subject to tax and RBI approval (Form 15CA/CB required).
+
+Q: What is the minimum deposit for an FCNR account?
+A: Varies by currency, typically starts at USD 1,000 or equivalent.
+
+Q: Can I open these accounts jointly with a resident Indian?
+A: NRO – Yes (only close relatives); NRE/FCNR – only with another NRI.
+
+Q: What happens to these accounts if I return to India permanently?
+A: You must convert them to resident accounts (RFC) as per RBI norms.
+
+Q: Can I open an NRE account online from abroad?
+A: Yes, via FinCove’s NRI portal with video KYC and international courier of documents (if needed).
+
+
+**Steps to Open an Account:**
+
+1. Choose account type
+2. Submit PAN, Aadhaar, and address proof
+3. Provide passport-sized photo
+4. eKYC via OTP
+5. Make initial deposit
+
+**FAQs:**
+
+* *Q: What is the penalty for not maintaining minimum balance?*
+  A: ₹200/month if below ₹2,000
+
+\---chunk---
+
+### 3.  Digital Banking Services #DigitalBanking #Neobanking #FinTech
+FinCove Pvt. Ltd. offers a comprehensive suite of digital banking services to provide customers with seamless, secure, and convenient access to banking — anytime, anywhere. From checking balances to making high-value fund transfers and managing cards, users can do it all from their mobile or desktop.
+
+** Mobile & Internet Banking**
+
+FinCove’s mobile banking app and internet portal provide a powerful set of features for retail and business customers.
+| Feature                    | Description                                                 |
+| -------------------------- | ----------------------------------------------------------- |
+| **Balance Inquiry**        | Check real-time account balance                             |
+| **Fund Transfers**         | IMPS, NEFT, UPI, RTGS enabled                               |
+| **Statement Access**       | View/download past statements in PDF/Excel                  |
+| **Bill Payments**          | Pay utility bills, DTH, broadband, insurance premiums, etc. |
+| **Debit Card Management**  | Block/unblock cards, set daily limits, request new card     |
+| **Beneficiary Management** | Add/remove/edit payees with OTP authentication              |
+| **Scheduled Payments**     | Set up auto-pay for recurring bills                         |
+| **Cheque Services**        | Request cheque book, stop cheque, track cheque status       |
+| **Security Options**       | Enable/disable UPI, ATM withdrawals, online usage           |
+| **Multi-Language Support** | Available in English, Hindi, and 5 regional languages       |
+
+Login Authentication:
+Supports MPIN, fingerprint/face ID, or password + OTP login methods.
+
+**SMS & IVR Banking**
+
+FinCove’s offline banking support ensures access even without internet.
+
+| Channel         | Action                                                             | How To Use                                |
+| --------------- | ------------------------------------------------------------------ | ----------------------------------------- |
+| **SMS Banking** | Balance inquiry                                                    | Send **BAL** to **56767**                 |
+|                 | Mini statement                                                     | Send **MINI** to **56767**                |
+| **IVR Banking** | Automated phone service                                            | Call **1800-123-4567**, follow voice menu |
+|                 | Services available: balance, card block, mini statement, UPI reset |                                           |
+ Ensure your mobile number is registered with your FinCove account to use SMS/IVR banking.
+
+**Neobanking Services**
+
+FinCove offers a next-gen neobanking experience built entirely on digital infrastructure — ideal for digital-native customers.
+
+| Feature                        | Description                                                |
+| ------------------------------ | ---------------------------------------------------------- |
+| **Digital Onboarding**         | Open savings/current account via eKYC, no branch visit     |
+| **Instant Debit Card**         | Get a virtual card immediately after account approval      |
+| **Spend Insights**             | AI-driven analytics on your spending habits                |
+| **Auto Categorization**        | Classifies expenses by type (food, travel, shopping, etc.) |
+| **Goal-Based Saving Tools**    | Set and track savings goals inside the app                 |
+| **Smart Alerts**               | Get notified of high spend, low balance, etc.              |
+| **Dark Mode & Voice Commands** | Modern app features for better UX                          |
+
+ **Security Measures**
+
+Security is at the core of FinCove’s digital banking offerings to protect user data and transactions.
+
+| Security Feature                    | Description                                               |
+| ----------------------------------- | --------------------------------------------------------- |
+| **Two-Factor Authentication (2FA)** | OTP + password/login PIN for all sensitive actions        |
+| **End-to-End Encryption (E2EE)**    | All transactions encrypted in transit and at rest         |
+| **Fraud Detection Engine**          | AI monitors suspicious logins, multiple location attempts |
+| **Biometric Verification**          | Face ID or fingerprint login (optional)                   |
+| **Session Timeout**                 | Auto logout after inactivity to prevent misuse            |
+| **No CVV/PIN Retention**            | FinCove does **not** store sensitive card details         |
+| **Device Binding**                  | Access allowed only from verified devices                 |
+
+*FAQs – Digital Banking:
+Q: Can I transfer funds internationally using the app?
+A: Not yet. International outward remittance is coming soon via the RBI-approved channels.
+
+Q: What happens if I forget my login PIN?
+A: Use the “Forgot PIN” option to reset via OTP and registered mobile.
+
+Q: Can I open a fixed deposit via mobile banking?
+A: Yes, go to Investments → Fixed Deposit and follow the steps.
+
+Q: Is the mobile app free?
+A: Yes, it’s free to download and use. Some transactions like NEFT/RTGS may incur nominal fees.
+
+
+
+
+\---chunk---
+### Fund Transfers #Transfers #UPI #IMPS #NEFT #RTGS
+
+FinCove Pvt. Ltd. offers a full suite of fund transfer services through digital and branch channels. Each method is tailored to meet specific user needs based on urgency, amount, and destination of the transaction.
+
+*Comparison Table: Transfer Methods
+| Method   | Transaction Limit         | Speed                  | Cost to Customer | Best Use Case                                |
+| -------- | ------------------------- | ---------------------- | ---------------- | -------------------------------------------- |
+| **UPI**  | ₹1 to ₹1,00,000 (per txn) | Instant                | Free             | Daily peer-to-peer transfers, shopping       |
+| **IMPS** | Up to ₹5,00,000           | Instant                | ₹5–₹25           | Urgent transfers, even on holidays           |
+| **NEFT** | No upper limit            | 30–120 minutes (batch) | ₹2.5–₹25         | Scheduled or bulk transfers                  |
+| **RTGS** | ₹2,00,000 and above       | Real-time              | ₹25–₹50          | High-value corporate or real estate payments |
+
+*How to Transfer Funds (All Methods)
+ Log in to the FinCove Mobile App or Web Portal
+ Tap on “Transfer Money”
+ Choose a method: UPI, IMPS, NEFT, or RTGS
+ Enter beneficiary details (name, account number, IFSC/UPI ID)
+ Confirm and authenticate using OTP or UPI PIN
+ Receive confirmation and reference number for tracking
+
+*Safety Tips During Transfers
+ Always verify recipient details before confirming
+ Never share your OTP or PIN with anyone
+ Avoid using public Wi-Fi while making large transfers
+ Enable SMS/email alerts for every outgoing transaction
+
+*Tips for Choosing the Right Transfer Method
+| Scenario                               | Suggested Method |
+| -------------------------------------- | ---------------- |
+| Paying a friend instantly              | UPI              |
+| Salary credit to multiple employees    | NEFT or IMPS     |
+| Large value transfer to builder/vendor | RTGS             |
+| Weekend/Holiday transaction            | IMPS or UPI      |
+| Scheduled rent or EMI payment          | NEFT (recurring) |
+
+*FAQs – Fund Transfers
+Q: What happens if a UPI transaction fails?
+A: Refund is usually processed within 1 hour to a maximum of 24 hours. Contact support if delay exceeds 24 hrs.
+
+Q: Is UPI available at night or on weekends?
+A: Yes. UPI is available 24x7x365, including bank holidays.
+
+Q: Can I cancel an NEFT/RTGS transfer?
+A: No. Once processed, it cannot be reversed. Contact support immediately for assistance.
+
+Q: Is there a way to schedule future payments?
+A: Yes. You can schedule NEFT payments via the “Scheduled Transfers” tab in the app.
+
+Q: Do I need to register a beneficiary before using RTGS/NEFT?
+A: Yes. Beneficiary registration with cooling period (usually 30 minutes) is required for NEFT/RTGS.
+
+*Customer Support #Helpdesk #Support #CustomerCare
+FinCove is committed to responsive, multi-channel customer support to resolve banking and service-related issues efficiently.
+
+*Contact Channels
+| Channel       | Details                                              |
+| ------------- | ---------------------------------------------------- |
+| **Toll-Free** |    1800-123-4567 (8AM–8PM, All Days)                 |
+| **Chatbot**   |    24/7 instant support via mobile app/web           |
+| **Email**     |    [support@fincove.com](mailto:support@fincove.com) |
+| **In-Branch** |    Mon–Sat, 10:00 AM to 4:00 PM                      |
+
+
+*Support Services Offered
+ Transaction Queries: Failed payments, UPI issues, statement clarification
+ Card Services: Block/unblock lost or stolen cards, reissue requests
+ Loan & Insurance Tracking: Application status, EMI calendar, policy download
+ Cheque Handling: Stop cheque request, cheque book status, bounced cheque alerts
+ Dispute Resolution: Fraud claims, unauthorized transactions, chargebacks
+ UPI/Net Banking Help: PIN reset, limit increase, linking accounts
+
+ Escalation to human support is available from chatbot if the query is unresolved.
+
+\---chunk---
+
+### Safe Deposit Lockers #LockerServices #SafeStorage #BankLockers
+FinCove Pvt. Ltd. offers Safe Deposit Locker Services at select branches, enabling customers to securely store jewelry, documents, wills, valuables, and other important items in a highly secure, monitored environment.
+
+*Locker Features
+| Feature                | Details                                                      |
+| ---------------------- | ------------------------------------------------------------ |
+| **Availability**       | Offered at selected urban and semi-urban FinCove branches    |
+| **Locker Sizes**       | Small (S), Medium (M), Large (L)                             |
+| **Annual Rent**        | ₹1,000 – ₹5,000 (based on size and city tier)                |
+| **Security**           | Dual key system (bank + customer key)                        |
+| **Access Control**     | Biometric or PIN-based access at select branches             |
+| **Usage Hours**        | During banking hours (Mon–Sat, 10AM to 4PM)                  |
+| **Surveillance**       | 24x7 CCTV monitoring in locker areas                         |
+| **Insurance Coverage** | Not provided by bank; customer can opt for third-party cover |
+
+Locker allocation is subject to availability and follows RBI guidelines on fair usage.
+
+*How to Apply for a Locker
+ Visit the nearest locker-enabled FinCove branch
+ Submit KYC Documents:
+  PAN Card
+  Aadhaar or Passport (address proof)
+ Choose Locker Size based on your needs and availability
+ Pay Security Deposit (refundable) and annual rent upfront
+ Sign Locker Agreement – A legal agreement between you and the bank
+ Receive Locker Key and instructions on usage and safety
+
+Only you (or your authorized nominee) can access the locker. Joint accounts and nominations are supported.
+
+Locker Safety & Compliance
+ Dual Key System: Both customer and bank official must insert keys to access the locker
+ RBI Mandate: Locker must be operated at least once every 12 months to avoid freeze
+ Nomination Facility: Highly recommended to ensure smooth transfer in case of death
+ Locker Visit Log: Every entry is time-stamped and logged by the bank
+ No Custody Over Contents: The bank doesn’t know or insure what you keep inside
+
+*FAQs – Locker Services
+Q: Can I open a locker if I don’t have an account with FinCove?
+A: No. You must have a savings or current account to apply for a locker.
+
+Q: What if I lose my locker key?
+A: A replacement will be arranged, but charges apply and the locker may need to be forcibly opened in your presence.
+
+Q: Is there a refund if I surrender the locker mid-year?
+A: No, locker rent is paid annually and is non-refundable.
+
+Q: Can I authorize someone to operate my locker?
+A: Yes, via written authorization or registered mandate.
+
+Q: What happens if I stop operating the locker?
+A: After 1 year of inactivity, the bank may send reminders. Prolonged inactivity may result in locker being frozen or repossessed under RBI rules.
+
+\---chunk---
+
+### Security & Compliance #Security #DataProtection #Regulations
+At FinCove Pvt. Ltd., customer trust is paramount. FinCove follows robust security protocols, comprehensive fraud monitoring, and regulatory compliance frameworks to protect customer assets and data integrity across all channels.
+
+Authentication Methods
+To prevent unauthorized access and ensure identity verification, FinCove supports multiple layers of Multi-Factor Authentication (MFA).
+
+| Method                                 | Description                                                     |
+| -------------------------------------- | --------------------------------------------------------------- |
+| **OTP (One-Time Password)**            | Mandatory for all fund transfers, logins, and sensitive actions |
+| **Biometrics**                         | Fingerprint/Face ID supported on app logins (device-dependent)  |
+| **Voice-based Verification (Planned)** | Future rollout of voice biometrics for call authentication      |
+| **MPIN/Login PIN**                     | App-specific PIN used to unlock accounts                        |
+| **Device Binding**                     | Login allowed only from verified devices or browsers            |
+
+Suspicious logins or transactions automatically trigger step-up authentication and alerts.
+
+Privacy & Data Encryption
+Customer data security is governed by FinCove’s zero-trust architecture and end-to-end encryption protocols.
+
+| Security Practice             | Implementation Details                                          |
+| ----------------------------- | --------------------------------------------------------------- |
+| **No Sensitive Data Capture** | CVV, UPI PIN, or card PIN are never collected or stored         |
+| **Encryption Standards**      | AES-256 encryption in storage; TLS 1.2+ during transit          |
+| **Masking Techniques**        | PAN masking, account masking on mobile/web platforms            |
+| **Data Localization**         | All financial data stored in RBI-compliant, India-based servers |
+| **Access Logs**               | Every data access is logged and monitored for anomalies         |
+
+
+Data policies are fully compliant with DPDP Bill (India) and international privacy standards such as GDPR (where applicable for NRI clients).
+
+Fraud Detection & Reporting
+FinCove uses AI-powered fraud detection systems and offers customers tools for fast response to suspicious activity.
+
+| Feature                        | Description                                                            |
+| ------------------------------ | ---------------------------------------------------------------------- |
+| **Real-Time Fraud Monitoring** | AI flags suspicious IP logins, geolocation mismatches, velocity checks |
+| **Transaction Alerts**         | SMS/email push for every debit, login, PIN change                      |
+| **Freeze Services**            | Instantly block account or card via mobile app or IVR                  |
+| **24x7 Fraud Hotline**         |    Call center for reporting fraud: **1800-123-4567**                  |
+| **Dispute Resolution**         | Chargeback and fraud claim registration from within the app            |
+
+Customers are advised to report fraud within 72 hours for liability protection as per RBI norms.
+
+Regulatory Compliance
+FinCove strictly adheres to guidelines from all relevant regulatory authorities across sectors:
+
+| Body        | Scope                                 | Key Regulations Followed                                  |
+| ----------- | ------------------------------------- | --------------------------------------------------------- |
+| **RBI**     | Banking, Digital Payments             | KYC/AML Norms, UPI/RTGS, Account Security Guidelines      |
+| **IRDAI**   | Insurance Products                    | Policy transparency, Claims processing norms              |
+| **SEBI**    | Investments, Demat, Mutual Funds      | Investor protection, Fund disclosure, Risk labeling       |
+| **PFRDA**   | National Pension Scheme               | Subscriber rights, Fund management rules                  |
+| **FIU-IND** | Anti-money laundering (AML) reporting | STRs, transaction flagging, reporting suspicious behavior |
+
+Regular audits, stress tests, and risk assessments are conducted to ensure compliance.
+
+FAQs – Security & Compliance
+Q: Is biometric login mandatory on the app?
+A: No, it's optional and device-dependent. You may use MPIN or password instead.
+
+Q: Can I view access logs to my account?
+A: Yes. In the security settings, view login history and connected devices.
+
+Q: What happens if my UPI PIN is compromised?
+A: Block your UPI handle via app → Reset PIN immediately → Report to support.
+
+Q: How does FinCove detect fraud?
+A: Through AI models analyzing login patterns, transaction history, and device behavior in real time.
+
+Q: Is customer data shared with third parties?
+A: No. Data is never shared without consent unless required by law (e.g., RBI or tax authorities).
+
+
+
+\---chunk---
+
+### 12. Glossary of Terms #Glossary #BankingTerms
+
+**RTGS:** Real-Time Gross Settlement — instant transfer for ₹2L+ transactions
+**UPI:** Unified Payments Interface — mobile-based instant payment system
+**Demat:** Dematerialized account to hold shares electronically
+**ULIP:** Unit Linked Insurance Plan — mix of insurance + investment
+**ELSS:** Equity Linked Savings Scheme — mutual funds with tax saving
+**KYC:** Know Your Customer — mandatory identity verification
+
+\---chunk---
+
+### 13. Extended FAQs #FAQs #UserHelp
+
+**Q: How to reset login password?**
+A: Click on "Forgot Password" on app/portal → Enter details → Set new password
+
+**Q: Can I open an account without visiting a branch?**
+A: Yes, use eKYC and video KYC for remote onboarding
+
+**Q: Is Aadhaar mandatory for opening accounts?**
+A: Yes, per RBI guidelines
+
+**Q: How do I close an account?**
+A: Submit closure form and ID proof at any branch
+
+**Q: What if my UPI is inactive?**
+A: Re-link account via UPI settings in your banking app
+
