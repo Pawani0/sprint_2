@@ -8,3 +8,4 @@ groq
 edge_tts
 fastapi
 uvicorn
+uvicorn[standard]
