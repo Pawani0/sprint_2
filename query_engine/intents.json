@@ -1,0 +1,70 @@
+{ 
+    "banking": { 
+        "check_balance": "Your current account balance is {{balance}}.", 
+        "view_transactions": "Here are your last {{count}} transactions: {{transactions}}.", 
+        "find_transaction": "Searching for transaction on {{date}} for {{amount}}...", 
+        "view_account_summary": "Your account summary is: Balance: {{balance}}, Type: {{type}}, Status: {{status}}.", 
+        "get_account_details": "Your routing number is {{routing_number}} and account number ends with {{account_last4}}.", 
+        "manage_alerts": "You can manage your alerts in the settings. Would you like to turn on {{alert_type}} alerts?",
+        "report_fraud": "Ok, a fraud report has been created for transaction ID {{txn_id}}. Our customer support will contact you shortly.",
+        "transfer_internal": "Transfer of {{amount}} from {{from_account}} to {{to_account}} has been initiated.", 
+        "transfer_external": "External transfer of {{amount}} to {{recipient}} is scheduled for {{date}}.", 
+        "schedule_payment": "Recurring payment of {{amount}} scheduled for every {{frequency}} starting {{start_date}}.", 
+        "modify_scheduled_payment": "Your scheduled payment for {{amount}} has been updated.", 
+        "payment_status": "Your payment to {{payee}} on {{date}} was {{status}}.", 
+        "get_receipt": "Here is the receipt for transaction ID {{txn_id}}.", 
+        "verify_identity": "Please verify your identity by answering the security question: {{security_question}}.",
+        "update_contact_info": "Your contact information ({{info_type}}) has been updated to {{new_value}}.",
+        "reset_debit_card_pin": "You’ve requested to reset your debit card PIN. Please verify via {{verification_method}}.",
+        "block_card": "Your {{card_type}} ending in {{last4}} has been blocked as requested.",
+        "unblock_card": "Your {{card_type}} ending in {{last4}} has been unblocked.",
+        "close_account": "Your request to close account {{account_number}} is in process.",
+        "request_bank_statement": "Your account statement from {{start_date}} to {{end_date}} is ready for download.",
+        "enable_autopay": "Autopay has been enabled for {{bill_type}} from account {{account_number}}.",
+        "disable_autopay": "Autopay has been disabled for {{bill_type}}.",
+        "request_cheque_book": "Cheque book request for account {{account_number}} has been placed."
+
+    }, 
+    "loan": { 
+        "loan_status": "Your loan application for {{loan_type}} is currently {{status}}.", 
+        "loan_balance": "Your remaining balance for the {{loan_type}} loan is {{loan_balance}}.", 
+        "loan_next_payment": "Your next payment of {{amount}} is due on {{due_date}}.", 
+        "loan_make_payment": "You’ve successfully scheduled a payment of {{amount}} toward your {{loan_type}} loan.", 
+        "loan_payoff_amount": "Your total payoff amount as of today is {{payoff_amount}}.", 
+        "loan_payment_history": "Here is your loan payment history: {{payment_history}}.", 
+        "loan_refinance_options": "Refinance options available for your loan include: {{options}}." 
+    }, 
+    "investment": { 
+        "investment_balance": "Your total investment portfolio balance is {{portfolio_value}}.", 
+        "investment_performance": "The {{instrument_name}} has changed {{percentage}} over the last {{period}}.", 
+        "get_quote": "The current price of {{symbol}} is {{price}}.", 
+        "trade_confirmation": "Your trade of {{shares}} shares of {{symbol}} has been completed.", 
+        "dividend_schedule": "Upcoming dividend payouts: {{dividend_info}}.", 
+        "investment_advice": "Based on your profile, we suggest {{recommendation}}.",
+        "update_investment_profile": "Your investment risk profile has been updated to {{risk_level}}.",
+        "withdraw_investment": "You’ve initiated a withdrawal of {{amount}} from your {{investment_type}} account.",
+        "update_dividend_preferences": "Dividend preferences updated to {{preference}} for {{instrument_name}}.",
+        "transfer_funds_to_investment": "Transfer of {{amount}} to your investment account has been initiated.",
+        "link_external_investment_account": "External account {{account_name}} has been linked to your investment dashboard."
+ 
+    }, 
+    "insurance": {
+        "insurance_status": "Your insurance policy {{policy_number}} is currently {{status}}.", 
+        "view_coverage": "Your {{policy_type}} policy covers: {{coverage_items}}.", 
+        "pay_premium": "Premium payment of {{amount}} has been received.", 
+        "submit_claim": "Your claim has been submitted. Reference number: {{claim_id}}.", 
+        "claim_status": "Your claim {{claim_id}} is currently {{claim_status}}.", 
+        "update_policy_info": "Your policy information has been updated.", 
+        "get_insurance_documents": "You can download your insurance documents here: {{document_link}}."
+     },
+     "tax": {
+        "tax_filing_status": "Your income tax filing status for AY {{assessment_year}} is: {{status}}.",
+        "submit_tax_documents": "Your tax documents for {{financial_year}} have been submitted successfully.",
+        "request_tax_consultation": "Your request for a tax consultation session has been scheduled for {{date}}.",
+        "update_tax_filing_info": "Your PAN-linked filing address has been updated to {{new_address}}.",
+        "view_tax_deductions": "Here are your applicable deductions under section {{section_name}}: {{deductions}}.",
+        "refund_status": "Your income tax refund for {{assessment_year}} is currently {{refund_status}}.",
+        "link_aadhar_pan": "Your Aadhaar {{aadhaar_last4}} and PAN {{pan_last4}} have been successfully linked."
+
+     }
+    }

@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+dotenv
+edge_tts
+fastapi
+uvicorn
+uvicorn[standard]
+langchain_groq
+pymongo
+langchain_core
